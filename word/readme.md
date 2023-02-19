@@ -3,4 +3,4 @@
 
 ## A 
 - ashamed
-- [ask](word/a/ask.md)
+- [ask](a/ask.md)

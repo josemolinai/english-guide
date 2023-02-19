@@ -1,7 +1,7 @@
 
 # Word - Ask
 
-[Words Index](../../readme.md)
+[Words Index](../readme.md)
 
 ## Definition
 
