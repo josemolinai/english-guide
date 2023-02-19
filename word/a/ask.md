@@ -33,3 +33,10 @@
 
 7. to request to speak to (someone):
     - Your sister called and **asked** (+) **for** (+) **you**. (**~** + **for** + **object**)
+
+
+##  Using the word
+
+1. to put a question (to); inquire (of): 
+    - I **ask** and then I wait for an answer. (**not object**)
+    - I **ask** (+) **her** but he not answer. (**~** + **object**)
